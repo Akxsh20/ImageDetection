@@ -1,4 +1,4 @@
-Course : Computer Vision
+Course : Computer Vision \n
 Assignment 1 : Image Detection, Sobel filters, Canny detection, etc.
 
 I have uploaded this assignment in github solely for the purpose of learning. These assignements have been changed every trimester.
